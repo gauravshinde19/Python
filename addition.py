@@ -1,4 +1,4 @@
-# Program to accept two integers from user and print addition of that numbers
+# Program to accept two numbers from user and print addition of that numbers
 
 num1 = float(input("Enter the first number :\n"))
 num2 = float(input("Enter the second number :\n"))
